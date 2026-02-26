@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "snake-game-app",
+  "builds": [
+    {
+      "src": "*.html",
+      "use": "@vercel/static"
+    }
+  ]
+}
